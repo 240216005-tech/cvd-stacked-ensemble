@@ -1,5 +1,6 @@
 !pip install dcurves
-
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--1650--5787-green)](https://orcid.org/0009-0009-1650-5787)
+"Add ORCID badge")
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
