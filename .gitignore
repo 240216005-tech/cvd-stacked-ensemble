@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data (large files — download separately)
+data/*.csv
+data/*.xlsx
+
+# Model artefacts (regenerate with train.py)
+results/**/*.npy
+results/**/*.pkl
+results/optuna/*.json
+
+# Figures (regenerate with evaluate.py)
+figures/**/*.png
+
+# Secrets — NEVER commit these
+*recovery-codes*
+*.pem
+*.key
+.env

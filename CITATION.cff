@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: >-
+  Stacked Ensemble Framework Integrating TabNet and Gradient
+  Boosting for Cardiovascular Disease Prediction
+message: >-
+  If you use this software, please cite it using the metadata
+  from this file.
+type: software
+authors:
+  - given-names: Akhil
+    family-names: Tripathi
+    email: 240216005@hbtu.ac.in
+    orcid: "https://orcid.org/0009-0009-1650-5787"
+    affiliation: >-
+      Department of Computer Science, Harcourt Butler
+      Technical University, Kanpur, India
+  - given-names: Imran
+    family-names: Khan
+    email: imran.k@hbtu.ac.in
+    affiliation: >-
+      Department of Computer Science, Harcourt Butler
+      Technical University, Kanpur, India
+repository-code: "https://github.com/YOUR_USERNAME/cvd-stacked-ensemble"
+doi: "10.5281/zenodo.19606370"
+license: MIT
+keywords:
+  - cardiovascular disease prediction
+  - stacked ensemble learning
+  - XGBoost
+  - CatBoost
+  - TabNet
+  - SHAP
+  - decision curve analysis
+  - external validation
+  - Bayesian optimisation
+  - TRIPOD+AI
+date-released: "2026-05-06"
