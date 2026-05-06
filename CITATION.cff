@@ -20,7 +20,7 @@ authors:
     affiliation: >-
       Department of Computer Science, Harcourt Butler
       Technical University, Kanpur, India
-repository-code: "https://github.com/YOUR_USERNAME/cvd-stacked-ensemble"
+repository-code:"https://github.com/240216005-tech/cvd-stacked-ensemble"
 doi: "10.5281/zenodo.19606370"
 license: MIT
 keywords:
